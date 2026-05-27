@@ -1,5 +1,6 @@
 #Berechnung der Fibonacci-Folge
 #Hier wird die iterative Berechnungsmethode verwendet.
+#Die iterative Methode ist resourcenschonender als die rekursive Methode.
 
 def fibonacci(n):
     a, b = 0, 1
